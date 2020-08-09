@@ -1,0 +1,147 @@
+body{
+	background-image:url('../images/bgimg.jpg');
+	padding-bottom:3950px;
+    
+}
+#aq{
+	display:inline-block;
+}
+#img{
+	
+	width:150px;
+	padding-left:40px;
+	height:70px;
+}
+#in {
+	display:none;
+	position:absolute;
+}
+#fnt:active #in{
+	display:block;
+}
+input[type=text] {
+	position:absolute;
+	left:-150px;
+	color:black;
+	width: 300px;
+    background-color: white;
+	border-radius:4px;
+    background-image: url('../images/searchicon.PNG');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+	transition: width 0.4s ease-in-out;
+}
+#fnt{
+	display:inline-block;
+	text-align:right;
+	font-family: "constantia", Times, serif;
+}
+#fnt2{
+	font-family: "constantia", Times, serif;
+}
+#pd{
+    color: white;
+    padding: 7px 25px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+	border-radius:10%;
+	
+}
+#pd:hover{
+	background-color:grey;
+	text-decoration: none;
+	
+}
+#pic1{
+	background-image:url('../images/logo.PNG');
+	opacity: 0.2;
+	padding-bottom:3950px;
+	
+}
+#sz{
+	
+	
+}
+#gb{
+	color:white;
+	border-bottom-style: solid;
+	border-color: white;
+	background-color:black;
+	position :relative;
+	padding:5px;
+	
+	}
+#gb2{
+	color:white;
+	border-bottom-style: solid;
+	border-color: white;
+	background-color:black;
+	padding-bottom:5px;
+	
+	}
+ a {
+    text-decoration: none;
+}
+ a:hover {
+	 color:white;
+  /*#drpdwn{
+	
+	display: none;
+    position: absolute;
+	background-color: red;
+	transition: width 2s;
+   }
+#bg22{
+	position:relative;
+	display:inline-block;
+	transition: width 2s;
+}
+#bg22:hover #drpdwn{
+	display:block;
+	
+}
+#drpdwn:hover{
+	width:300px;
+	}
+#bg22{
+    width: 100px;
+    height: 100px;
+	position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+	transition: width 2s;
+}
+
+@keyframes example {
+    0%{background-color: red;left:0px; }
+    20%{background-color: blue; left:20px; 	}
+	40%{background-color: green; left:40px;}
+	60%{background-color: white; left:80px;}
+	80%{background-color: grey; left:120px;}
+	100%{background-color: black; left:160px;}
+}
+#bg22:hover {
+    width: 300px;
+}
+
+#bg:hover #drpdwn{
+	display:block;
+	
+	
+	
+}
+#bg2{
+    padding:37px;
+    background-color: rgb(7, 105, 151);
+}
+#brd{
+    border:10px solid black;
+}
+
+
+*/
+
+}
